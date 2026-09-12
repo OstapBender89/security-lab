@@ -7,3 +7,6 @@ Repozytorium do nauki:
 - Python
 - Networking
 - Security
+
+
+GitHub synchronization test.
